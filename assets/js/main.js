@@ -1,9 +1,9 @@
 /**
-* Template Name: Flexor - v3.0.0
-* Template URL: https://bootstrapmade.com/flexor-free-multipurpose-bootstrap-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
+ * Template Name: Flexor - v3.0.0
+ * Template URL: https://bootstrapmade.com/flexor-free-multipurpose-bootstrap-template/
+ * Author: BootstrapMade.com
+ * License: https://bootstrapmade.com/license/
+ */
 !(function($) {
   "use strict";
 
