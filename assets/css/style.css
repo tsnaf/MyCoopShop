@@ -389,7 +389,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #hero .get-started-icon {
   font-size: 24px;
-  background: #ff5821;
+  background: #cc7a7c;
   padding: 14px;
   color: #fff;
   border-radius: 50px;
@@ -415,7 +415,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .btn-get-started:hover {
-  background: #ff5821;
+  background: #cc7a7c;
 }
 
 @media (min-width: 1024px) {
