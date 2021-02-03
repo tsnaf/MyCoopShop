@@ -1,3 +1,6 @@
+<b>Our design focus:</b><br /><code>Understanding and targeting your niche market | Key messages that resonate with your target customer | Clear product and service offerings that solve your customers problems | A personlised branding kit with colours and imagery that connects emotionally</code>
+
+<b>Our design focus:</b><br /><code>Understanding and targeting your niche market | Key messages that resonate with your target customer | Clear product and service offerings that solve your customers problems | A personlised branding kit with colours and imagery that connects emotionally</code>
 
   <h2>What our clients say...</h2>
   <p>
